@@ -17,6 +17,7 @@
 
     <modules>
         <module>core-java-concurrency-basic</module>
+        <module>core-java-exception-2</module>
     </modules>
 
     <dependencyManagement>
